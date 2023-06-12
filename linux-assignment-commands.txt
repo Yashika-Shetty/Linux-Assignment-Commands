@@ -1,0 +1,17 @@
+mkdir linux-assignment
+cd linux-assignment
+touch instructions.txt
+nano insructions.txt
+cat instructions.txt
+mv instructions.txt greetings.txt
+cp greetings.txt salutations.txt
+rm greetings.txt
+mkdir archive
+mv salutations.txt /home/yashika_yashika/linux-assignment/archive
+pwd
+ls
+cd ..
+touch file1.txt file2.txt file3.txt
+ls
+cd ..
+cat> linux-assignment-commands.txt
